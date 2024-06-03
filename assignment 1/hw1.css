@@ -1,0 +1,23 @@
+body{
+    margin:50;
+    padding:0;
+}
+
+.signup-form{
+    border: 2px solid red;
+    border-radius: 25px;
+    width: 300px;
+    background:white;
+    padding:20px;
+    margin: 10% auto;
+}
+
+.acc{
+    border: 2px solid red;
+    border-radius: 25px;
+    
+    background:blue;
+    padding:20px;
+}
+ 
+
